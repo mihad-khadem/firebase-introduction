@@ -1,0 +1,13 @@
+.header-container{
+    display: flex;
+    gap: 20px;
+    
+}
+.login-btn{
+    margin: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-size: 15px;
+}
